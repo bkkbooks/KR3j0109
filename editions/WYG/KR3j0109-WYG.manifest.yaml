@@ -20,7 +20,7 @@ assets:
   - {seq: 0, filename: KR3j0109_000-WYG.yaml, hash: 'sha256:6252cc6afdc358c123118c84eb205b843ed029522caa029d0e5ef0a9e4339a38'}
   - {seq: 1, filename: KR3j0109_001-WYG.yaml, hash: 'sha256:53e1027513bc57526d50baa6c7855d605d40def0cbbbdd411ec00ce04f106fe3'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3j0109_000-WYG.markers.yaml, hash: 'sha256:6ac9c2092a2fbac6b11a49c1b71985fefd1823a2ba2d5632932ddc46c29ccec6'}
+  - {seq: 0, role: markers, filename: assets/KR3j0109_000-WYG.markers.yaml, hash: 'sha256:21f93d49e18c334039c1927b80e4e0ed053de9036d4ec73737650a4483790f7c'}
   - {seq: 1, role: markers, filename: assets/KR3j0109_001-WYG.markers.yaml, hash: 'sha256:3a02a04bcb7205741cc9208f956702de487a819cbfcc7bb270ecd9d5ffa46890'}
 table_of_contents:
 - ref:
@@ -53,4 +53,4 @@ table_of_contents:
   label: 五總志
   type: section
   level: 1
-hash: sha256:8199e0080a7420b73d82220d58ed91e4fa939d76ed36b5a2d6dca2e69bba5e04
+hash: sha256:004f3b91c5969260219789c12222131060c28154f494a6203d82808bf58b0bd4
